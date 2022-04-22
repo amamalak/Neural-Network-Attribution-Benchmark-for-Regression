@@ -6,7 +6,7 @@
 
 The scripts "PWL_gen.m", "figureHR.m" and "bluewhitered.m" are secondary functions that are called in the main scripts described above.  
 
-The above scripts are user-friendly and with many instructions present and can be used to generate totally new synthetic datasets as well as train new networks from scratch. For those who are interested in using exactly the same dataset as the one in Mamalakis et al., it can be found at:
+The above scripts are user-friendly and with many instructions and can be used to generate totally new synthetic datasets as well as train new networks from scratch. For those who are interested in using exactly the same dataset as the one in Mamalakis et al., it can be found at:
 
 The trained network that was used by Mamalakis et al. is provided in the file "my_model.h5". 
 
